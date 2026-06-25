@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "question": "Wie viele Einwohner hat Deutschland?",
+    "choices": [
+      "Etwa 40 Millionen",
+      "Etwa 60 Millionen",
+      "Etwa 80 Millionen",
+      "Etwa 100 Millionen"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 2,
+    "question": "Welche Farben hat die deutsche Nationalflagge?",
+    "choices": [
+      "Blau, Weiß, Rot",
+      "Schwarz, Rot, Gold",
+      "Grün, Weiß, Schwarz",
+      "Rot, Gold, Silber"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "Was ist das Grundgesetz?",
+    "choices": [
+      "Das Steuergesetz Deutschlands",
+      "Die Verfassung Deutschlands",
+      "Das Schulgesetz Deutschlands",
+      "Das Handelsgesetz Deutschlands"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "Welches Organ spricht in Deutschland Recht?",
+    "choices": [
+      "Die Polizei",
+      "Das Parlament",
+      "Die Gerichte",
+      "Die Regierung"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 5,
+    "question": "Wie heißt der deutsche Bundeskanzler / die deutsche Bundeskanzlerin?",
+    "choices": [
+      "Der Bundespräsident wählt ihn/sie",
+      "Er/Sie wird direkt vom Volk gewählt",
+      "Er/Sie wird vom Bundestag gewählt",
+      "Er/Sie wird vom Bundesrat ernannt"
+    ],
+    "correctAnswer": 2
+  }
+]
